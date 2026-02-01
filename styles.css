@@ -5,6 +5,7 @@ body {
     background-color: #bfe3ee; /* light blue background */
     font-family: "Times New Roman", serif;
     color: #000;
+    text-align: left;
 }
 
 /* ===== Headings ===== */
@@ -117,5 +118,6 @@ td {
     background-color: #e6e6e6;
     text-align: left;
 }
+
 
 
