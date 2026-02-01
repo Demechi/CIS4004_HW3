@@ -14,6 +14,7 @@ h1 {
     margin-top: 20px;
     margin-bottom: 40px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
 }
 
 h2 {
@@ -21,12 +22,14 @@ h2 {
     margin-left: 20px;
     margin-bottom: 10px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
 }
 
 /* ===== Paragraphs ===== */
 p {
     margin: 20px;
     line-height: 1.6;
+    text-align: left;
 }
 
 /* 2nd paragraph – boxed paragraph */
@@ -72,11 +75,13 @@ a:hover {
 /* w3schools link */
 a.w3 {
     color: #008000; /* green */
+    text-align: left;
 }
 
 /* list item links */
 li a {
     color: #0000ff;
+    text-align: left;
 }
 
 /* ===== Lists ===== */
@@ -112,4 +117,5 @@ td {
     background-color: #e6e6e6;
     text-align: left;
 }
+
 
