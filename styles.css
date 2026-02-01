@@ -5,7 +5,6 @@ body {
     background-color: #bfe3ee; /* light blue background */
     font-family: "Times New Roman", serif;
     color: #000;
-    text-align: left;
 }
 
 /* ===== Headings ===== */
@@ -94,23 +93,22 @@ ol {
 
 /* ===== Tables ===== */
 table {
+    text-align: left;
     border-collapse: collapse; /* overlapping borders */
     width: 80%;
     margin: 30px auto;
-    text-align: left;
 }
 
 th, td {
+    text-align: left;
     border: 2px solid #000;
     padding: 10px;
-    text-align: left;
 }
 
 /* table header */
 th {
     background-color: #999999;
     color: #000;
-    text-align: left;
 }
 
 /* table cells */
@@ -118,6 +116,7 @@ td {
     background-color: #e6e6e6;
     text-align: left;
 }
+
 
 
 
